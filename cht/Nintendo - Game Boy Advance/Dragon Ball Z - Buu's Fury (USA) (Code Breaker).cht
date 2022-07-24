@@ -1,22 +1,57 @@
-cheats = 5
+cheats = 14
 
 cheat0_desc = "Enable Code"
-cheat0_code = "00000368+000A+1003D840+0007"
-cheat0_enable = false
-
-cheat1_desc = "Walk Through Walls"
-cheat1_code = "83001200+5908+83001202+B43F+83001204+4811+83001206+6800+83001208+2800+8300120A+D01B+8300120C+21FF+8300120E+23A1+83001210+18C9+83001212+1840+83001214+2320+83001216+6804+83001218+6845+8300121A+46C0+8300121C+490C+8300121E+7809+83001220+297F+83001222+D006+83001224+29BF+83001226+D006+83001228+29DF+8300122A+D006+8300122C+29EF+8300122E+D006+83001230+E008+83001232+18ED+83001234+E004+83001236+1AED+83001238+E002+8300123A+1AE4+8300123C+E000+8300123E+18E4+83001240+6004+83001242+6045+83001244+BC3F+83001246+46C0+83001248+4C02+8300124A+4700+8300124C+1C34+8300124E+0300+83001250+0130+83001252+0400+83001254+0C7C+83001256+0300+83000C70+2000+83000C72+E59F+83000C74+FF12+83000C76+E12F+83000C78+1201+83000C7A+0300"
+cheat0_code = "9032B87FA001+A14CAD62C569+27BFE4835184"
 cheat1_enable = false
 
-cheat2_desc = "Max Zeni"
-cheat2_code = "8300155C+E0FF+8300155E+05F5"
+cheat1_desc = "Infinite HP All Characters"
+cheat1_code = "F63EE141D3E9"
+cheat1_enable = false
+
+cheat2_desc = "Infinite EP All Characters"
+cheat2_code = "F22FA161D3E9"
 cheat2_enable = false
 
-cheat3_desc = "All Inventory Items"
-cheat3_code = "4300106A+0101+00000010+0002+8300108A+0201+4300108C+0101+00000018+0002"
+cheat3_desc = "Infinite KI All Characters"
+cheat3_code = "4E907E91C0E6+4BC13EB360E6"
 cheat3_enable = false
 
-cheat4_desc = "All Equipment"
-cheat4_code = "3300114C+00A1+43001150+0001+000100A1+0004"
+cheat4_desc = "Infinite SP All Characters"
+cheat4_code = "A82BBD55A702+A96BBD570702"
 cheat4_enable = false
 
+cheat5_desc = "Full Super Sayain Bar All All Characters"
+cheat5_code = "A41C6D35A50F+A00C8D630539"
+cheat5_enable = false
+
+cheat6_desc = "Infinite HP All All Characters"
+cheat6_code = "FA093121D1E4+A00C8D630539"
+cheat6_enable = false
+
+cheat7_desc = "Max HP All All Characters"
+cheat7_code = "F75C610371ED+A00C8D630539"
+cheat7_enable = false
+
+cheat8_desc = "Infinite EP All All Characters"
+cheat8_code = "F61C6101D1ED+A00C8D630539"
+cheat8_enable = false
+
+cheat9_desc = "Max EP All All Characters"
+cheat9_code = "F34D212371ED+A00C8D630539"
+cheat9_enable = false
+
+cheat10_desc = "Can Attack Anywhere All Characters"
+cheat10_code = "4A223620A6CD"
+cheat10_enable = false
+
+cheat11_desc = "Infinite Fusion Time All Characters"
+cheat11_code = "CE3B5F3183BB"
+cheat11_enable = false
+
+cheat12_desc = "Infinite Time In Multiplayer All Characters"
+cheat12_code = "FF72D9EB4AB9"
+cheat12_enable = false
+
+cheat13_desc = "Infinite Super Saiyan 3 Bar All Characters"
+cheat13_code = "00852EB4840F"
+cheat13_enable = false
